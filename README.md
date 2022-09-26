@@ -17,6 +17,8 @@
   
 </div>
 
+## Linguagens utilizadas:
+
 
 <div>
 <a href="https://github.com/thiagomayorca">
