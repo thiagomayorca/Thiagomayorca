@@ -3,6 +3,7 @@
 # Olá, me chamo Thiago Mayorca ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+- 🔭 Atualmente estou trabalhando em ...
 
 ## Estou aprendendo
 
